@@ -1,0 +1,60 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A2 23386 16535
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L mylib:Allwinner_V3S U3
+U 1 1 624D31A6
+P 14950 7400
+F 0 "U3" H 14750 11965 50  0000 C CNN
+F 1 "Allwinner_V3S" H 14750 11874 50  0000 C CNN
+F 2 "mypack:ELQFP-129_14x14mm_P0.4mm" H 15900 2850 50  0001 C CNN
+F 3 "" H 15600 11100 50  0001 C CNN
+	1    14950 7400
+	1    0    0    -1  
+$EndComp
+$Comp
+L mylib:SY8088AAC U1
+U 1 1 624D5869
+P 7050 4000
+F 0 "U1" H 7025 4365 50  0000 C CNN
+F 1 "SY8088AAC" H 7025 4274 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-5" H 7900 3700 50  0001 C CNN
+F 3 "" H 6850 4300 50  0001 C CNN
+	1    7050 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L mylib:CH340N U2
+U 1 1 624D83FC
+P 8050 5300
+F 0 "U2" H 7975 5815 50  0000 C CNN
+F 1 "CH340N" H 7975 5724 50  0000 C CNN
+F 2 "Package_SO:SOP-8_3.9x4.9mm_P1.27mm" H 8250 4900 50  0001 C CNN
+F 3 "" H 7700 5700 50  0001 C CNN
+	1    8050 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L mylib:USB-TypeC-16Pin C1
+U 1 1 624E7871
+P 3950 3550
+F 0 "C1" H 3950 4593 60  0000 C CNN
+F 1 "USB-TypeC-16Pin" H 3950 4487 60  0000 C CNN
+F 2 "mypack:USB-TYPT-C-16PIN" H 3950 4381 60  0000 C CNN
+F 3 "" H 3250 3600 60  0001 C CNN
+	1    3950 3550
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
