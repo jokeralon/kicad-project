@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A2 23386 16535
 encoding utf-8
-Sheet 1 4
+Sheet 1 6
 Title ""
 Date ""
 Rev ""
@@ -185,4 +185,16 @@ Wire Wire Line
 	6375 5850 5450 5850
 Wire Wire Line
 	5450 5750 6375 5750
+$Sheet
+S 15225 5075 2100 2375
+U 624953A8
+F0 "display" 50
+F1 "display.sch" 50
+$EndSheet
+$Sheet
+S 11450 5900 1050 2125
+U 624985F7
+F0 "camera" 50
+F1 "camera.sch" 50
+$EndSheet
 $EndSCHEMATC
