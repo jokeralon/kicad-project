@@ -1,4 +1,4 @@
-20414605257370081
+20333914933501919
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57665,97 +57665,6 @@ Yellow 5381 Series LED
 0
 2
 2
-Library
-C_0402_1005Metric
-Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-Library
-Crystal_SMD_3225-4Pin_3.2x2.5mm
-SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
-SMD SMT crystal
-0
-4
-4
-Library
-Key_Push_2x4x3.5_Side_4P
-
-
-0
-6
-3
-Library
-Key_Push_3.5x5x1.5_Side_4P
-
-
-0
-4
-2
-Library
-LED_0603_1608Metric
-LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode
-0
-2
-2
-Library
-L_1008_2520Metric
-Inductor SMD 1008 (2520 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://ecsxtal.com/store/pdf/ECS-MPI2520-SMD-POWER-INDUCTOR.pdf), generated with kicad-footprint-generator
-inductor
-0
-2
-2
-Library
-NGFF_2230_67P_P0.5_M_KEY_Plug
-NGFF finger
-
-0
-67
-67
-Library
-QFN-20_EP_3x3_Pitch0.4mm_ThermalVias
-
-
-0
-29
-21
-Library
-QFN-88_EP_10x10_Pitch0.4mm_Handsoldering
-
-
-0
-97
-89
-Library
-R_0402_1005Metric
-Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Library
-SOT-23
-SOT-23, Standard
-SOT-23
-0
-3
-3
-Library
-TestPoint_Pad_D1.0mm
-SMD pad as test Point, diameter 1.0mm
-test point SMD pad
-0
-1
-1
-Library
-WSON-8_8x6mm
-
-
-0
-10
-9
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -62699,8 +62608,8 @@ LFCSP-WD NoLead
 24
 11
 Package_CSP
-Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm
-WLCSP-35, 2.168x2.998mm, 35 Ball, 7x5 Layout, 0.4mm Pitch, https://pdfserv.maximintegrated.com/package_dwgs/21-100489.PDF
+Maxim_WLCSP-32_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm
+WLCSP-32, 2.168x2.998mm, 35 Ball, 7x5 Layout, 0.4mm Pitch, https://pdfserv.maximintegrated.com/package_dwgs/21-100489.PDF
 CSP 35 0.4
 0
 35
@@ -71568,13 +71477,6 @@ SSOP 0.65 exposed pad
 18
 15
 Package_SO
-TSSOP-14_4.4x3.6mm_P0.4mm
-TSSOP, 14 Pin (JEDEC MO-194 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
-TSSOP SO
-0
-14
-14
-Package_SO
 TSSOP-14_4.4x5mm_P0.65mm
 TSSOP, 14 Pin (JEDEC MO-153 Var AB-1 https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSSOP SO
@@ -71603,26 +71505,12 @@ TSSOP SO
 26
 17
 Package_SO
-TSSOP-16_4.4x3.6mm_P0.4mm
-TSSOP, 16 Pin (JEDEC MO-194 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
-TSSOP SO
-0
-16
-16
-Package_SO
 TSSOP-16_4.4x5mm_P0.65mm
 TSSOP, 16 Pin (JEDEC MO-153 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSSOP SO
 0
 16
 16
-Package_SO
-TSSOP-20_4.4x5mm_P0.4mm
-TSSOP, 20 Pin (JEDEC MO-194 Var AC https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
-TSSOP SO
-0
-20
-20
 Package_SO
 TSSOP-20_4.4x5mm_P0.5mm
 TSSOP, 20 Pin (JEDEC MO-153 Var BA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -71925,13 +71813,6 @@ TSSOP SO
 52
 52
 Package_SO
-TSSOP-56_4.4x11.3mm_P0.4mm
-TSSOP, 56 Pin (JEDEC MO-194 Var AF https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
-TSSOP SO
-0
-56
-56
-Package_SO
 TSSOP-56_6.1x12.5mm_P0.4mm
 TSSOP, 56 Pin (JEDEC MO-153 Var FD https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSSOP SO
@@ -72001,13 +71882,6 @@ TSSOP SO
 0
 80
 80
-Package_SO
-TSSOP-100_6.1x20.8mm_P0.4mm
-TSSOP, 100 Pin (JEDEC MO-194 Var BB https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
-TSSOP SO
-0
-100
-100
 Package_SO
 Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm
 Texas Instruments HSOP 9, 1.27mm pitch, 3.9x4.9mm body, exposed pad, DDA0008J (http://www.ti.com/lit/ds/symlink/tps5430.pdf)
@@ -79065,13 +78939,6 @@ co2 gas sensor pwm modbus
 9
 9
 Sensor
-Sensirion_SCD4x-1EP_10.1x10.1mm_P1.25mm_EP4.8x4.8mm
-Sensirion SCD4x QFN, 20 Pin (https://sensirion.com/media/documents/C4B87CE6/627C2DCD/CD_DS_SCD40_SCD41_Datasheet_D1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-Sensirion QFN NoLead
-0
-25
-21
-Sensor
 Winson_GM-402B_5x5mm_P1.27mm
 Winson GM-402B, 8 Pin (https://www.winsen-sensor.com/d/files/me2/mems--gm-402b--manual-v1_1.pdf)
 Winson
@@ -84777,13 +84644,6 @@ Ethernet Transformer
 16
 16
 Transformer_SMD
-Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm
-YDS 30F-51NL SO, 24 Pin (https://datasheet.lcsc.com/lcsc/1811051610_Shanghai-YDS-Tech-30F-51NL_C123168.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-YDS SO Transformer_SMD
-0
-24
-24
-Transformer_SMD
 Transformer_MACOM_SM-22
 https://cdn.macom.com/datasheets/ETC1-1-13.pdf
 RF Transformer
@@ -86113,31 +85973,3 @@ varistor SIOV
 0
 2
 2
-mylib
-ANT_2051
-
-
-0
-2
-2
-mylib
-IPEX_ANT
-
-
-0
-3
-2
-mylib
-LED_SMT_4P_3535
-
-
-0
-4
-4
-mylib
-NGFF_2230_67P_P0.5_M_KEY_Plug_复制(copy)
-NGFF finger
-
-0
-67
-67
